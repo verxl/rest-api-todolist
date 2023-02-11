@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cxf-rt-rs-client-4.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/cxf-rt-rs-client-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

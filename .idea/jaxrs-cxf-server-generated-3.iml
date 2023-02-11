@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="javax.mail-1.6.2" level="project" />
+    <orderEntry type="library" name="javax.ws.rs-api-2.1.1" level="project" />
+    <orderEntry type="library" name="swagger-models-2.2.8" level="project" />
+    <orderEntry type="library" name="swagger-integration-2.2.8" level="project" />
+    <orderEntry type="library" name="swagger-annotations-2.2.8" level="project" />
+    <orderEntry type="library" name="validation-api-2.0.1.Final" level="project" />
+    <orderEntry type="library" name="javax.activation-api-1.2.0" level="project" />
+    <orderEntry type="library" name="jaxb-api-2.4.0-b180830.0359" level="project" />
+    <orderEntry type="library" name="jackson-databind-2.14.2" level="project" />
+    <orderEntry type="library" name="jackson-annotations-2.14.2" level="project" />
+    <orderEntry type="library" name="jackson-core-2.14.2" level="project" />
+    <orderEntry type="library" name="jackson-jaxrs-json-provider-2.14.2" level="project" />
+    <orderEntry type="library" name="cxf-rt-rs-client-4.0.0" level="project" />
+  </component>
+</module>
